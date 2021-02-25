@@ -1,0 +1,28 @@
+*{
+	border: 2px solid #b8b8b8;
+	background-color: #95a393;
+}
+
+body {
+	border: 2px solid #b8b8b8;
+	font-weight: lighter;
+	font-family: system-ui;
+}
+
+h1 {
+	font-size: 24;
+}
+
+h2 {
+	font-size: 18;
+	border-top: 1px solid #b8b8b8
+}
+
+ul {
+	
+    font-size: 18;
+}
+
+p{
+	font-size: 12;
+}
