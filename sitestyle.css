@@ -33,5 +33,6 @@ h3 {
 navbar {
   overflow: hidden;
   background-color: #afbab3;
+float: right;
   font-family: Helvetica, sans-serif;
 }
