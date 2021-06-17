@@ -1,0 +1,82 @@
+ html {
+  background-color: #F1B24A;
+  padding: 10px 15px 10px 15px;
+  font-family: Georgia; serif;
+}
+
+h1 {
+  font-size: 65px
+  color: #FFFFFF;
+}
+
+h2 {
+  font-size: 18px;
+  color: #000000;
+}
+
+
+/ page style */
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 30px 0 30px;
+  color: #000000;
+}
+
+#about h3{
+  font-size: 23px
+}
+
+#about p {
+  margin: 0 40px 0 40px;
+  font-size: 15px;
+}
+
+/* nav bar styling */
+nav ul {
+  list-style-type: none;
+  margin: 3% 30% 3% 30%;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1d1f24;
+  border-radius: 69px;
+}
+
+nav li {
+  float: left;
+  width: 50%;
+}
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border-radius: 69px;
+}
+
+#current {
+  background-color: #000000;
+}
+
+nav li a:hover {
+  background-color: #000000;
+}
+
+/* data page styling */
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+}
+
+.grid-item {
+  text-align: center;
+  border: 2px solid black;
+  padding: 15px;
+  margin: 7% 17% 7% 17%;
+}
+
+.grid-item img {
+  width:25%;
+}
