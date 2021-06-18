@@ -1,23 +1,7 @@
 html {
-  color: #white;
-  margin: 45px;
-}
-
-body {
-	background-color: #afbab3;
-	}
-p {
-	background-color:#afbab3;
-	color:#1d1e2b;
-	font-family: Helvetica, sans-serif;
-	font-size: 30 px;
-	padding: 20px 20px;
-	line-height: 125%;
-	}
-img {
-  height: 100px;
-  float:middle;
-  margin:10px 10px 100px 100px;
+  background-color: #afbab3;
+  padding: 10px 15px 10px 15px;
+  font-family: Helvetica; sans-serif;
 }
 h1 {
 	font-size: 70 px;
@@ -34,10 +18,24 @@ h3 {
 	color:#1d1e2b;
 	padding:25px;
 }
+p {
+	background-color:#afbab3;
+	color:#1d1e2b;
+	font-family: Helvetica, sans-serif;
+	font-size: 30 px;
+	padding: 20px 20px;
+	line-height: 125%;
+}
+img {
+  height: 100px;
+  float:middle;
+  margin:10px 10px 100px 100px;
+}
+
 
 navbar {
   overflow: hidden;
   background-color: #afbab3;
-float: right;
+  float:right;
   font-family: Helvetica, sans-serif;
 }
