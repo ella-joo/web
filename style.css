@@ -1,11 +1,11 @@
-  html {
+html {
   background-color: #afbab3;
-  padding: 10px 15px 10px 15px;
+  padding: 10px 20px 10px 20px;
   font-family: Helvetica; serif;
 }
 
 h1 {
-  font-size: 65px
+  font-size: 80px
   color: #1d1e2b;
 }
 
@@ -14,16 +14,13 @@ h2 {
   color: #1d1e2b;
 }
 
-
-/ page style */
-
 #about h3{
   font-size: 23px
 }
 
 #about p {
   margin: 0 40px 0 40px;
-  font-size: 15px;
+  font-size: 25px;
 }
 
 /* nav bar styling */
