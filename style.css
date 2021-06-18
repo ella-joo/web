@@ -23,6 +23,10 @@ h2 {
   font-size: 25px;
 }
 
+img {
+  width: 40%;
+}
+
 /* nav bar styling */
 nav ul {
   list-style-type: none;
