@@ -4,25 +4,24 @@ html {
   font-family: Helvetica; sans-serif;
 }
 h1 {
-	font-size: 70 px;
+	font-size: 70px;
 	color:#1d1e2b;
 	padding:25px;
 }
 h2 {
-	font-size: 60 px;
+	font-size: 60px;
 	color:#1d1e2b;
 	padding:25px;
 }
 h3 {
-	font-size: 40 px;
+	font-size: 40px;
 	color:#1d1e2b;
 	padding:25px;
 }
 p {
 	background-color:#afbab3;
 	color:#1d1e2b;
-	font-family: Helvetica, sans-serif;
-	font-size: 30 px;
+	font-size: 30px;
 	padding: 20px 20px;
 	line-height: 125%;
 }
